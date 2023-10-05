@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tick-Rate", "Tick-Rate\Tick-Rate.vcxproj", "{5F7C7589-6FA1-4553-8EA9-1684FB950AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F7C7589-6FA1-4553-8EA9-1684FB950AD9}.Debug|x64.ActiveCfg = Debug|x64
+		{5F7C7589-6FA1-4553-8EA9-1684FB950AD9}.Debug|x64.Build.0 = Debug|x64
+		{5F7C7589-6FA1-4553-8EA9-1684FB950AD9}.Debug|x86.ActiveCfg = Debug|Win32
+		{5F7C7589-6FA1-4553-8EA9-1684FB950AD9}.Debug|x86.Build.0 = Debug|Win32
+		{5F7C7589-6FA1-4553-8EA9-1684FB950AD9}.Release|x64.ActiveCfg = Release|x64
+		{5F7C7589-6FA1-4553-8EA9-1684FB950AD9}.Release|x64.Build.0 = Release|x64
+		{5F7C7589-6FA1-4553-8EA9-1684FB950AD9}.Release|x86.ActiveCfg = Release|Win32
+		{5F7C7589-6FA1-4553-8EA9-1684FB950AD9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720C83C0-4DCB-4E79-9302-5F79E744C115}
+	EndGlobalSection
+EndGlobal
